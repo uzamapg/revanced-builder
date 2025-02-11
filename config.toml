@@ -1,6 +1,9 @@
 enable-magisk-update = false
 parallel-jobs = 1
 
+patches-version = "dev" # 'latest', 'dev', or a version number. default: "latest"
+cli-version = "dev"       # 'latest', 'dev', or a version number. default: "latest"
+
 # ReVanced Extended
 [YouTube-Extended]
 app-name = "YouTube"
