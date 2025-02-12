@@ -15,7 +15,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 included-patches = "'Visual preferences icons' 'MaterialYou'"
-excluded-patches = "'Custom Shorts action buttons' 'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Enable debug logging'"
+excluded-patches = "'Custom Shorts action buttons' 'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Enable debug logging' 'Theme'"
 patcher-args = """\
   -OdarkThemeBackgroundColor \
   """
