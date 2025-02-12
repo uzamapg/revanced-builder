@@ -1,5 +1,5 @@
 enable-magisk-update = false
-parallel-jobs = 1
+parallel-jobs = 3
 
 patches-version = "dev" # 'latest', 'dev', or a version number. default: "latest"
 cli-version = "dev"       # 'latest', 'dev', or a version number. default: "latest"
