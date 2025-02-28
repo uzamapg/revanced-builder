@@ -1,3 +1,4 @@
+YT-Music-Extended: 8.05.51  
 YouTube-Extended: 19.44.39  
 
 Install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) for non-root YouTube and YouTube Music APKs  
