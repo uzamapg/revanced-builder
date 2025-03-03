@@ -37,6 +37,7 @@ excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding na
 [Reddit-Extended]
 app-name = "Reddit" 
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
