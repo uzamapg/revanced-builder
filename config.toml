@@ -46,6 +46,18 @@ arch = "arm64-v8a"
 build-mode = "apk"
 excluded-patches = "'Enable debug logging'"
 
+
+[Spotify]
+app-name = "Spotify" 
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+patches-source = "ReVanced/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+cli-source = "revanced/revanced-cli"
+rv-brand = "ReVanced"
+arch = "arm64-v8a"
+build-mode = "apk"
+excluded-patches = "'Enable debug logging'"
 # ReVanced
 #[YouTube]
 #apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
