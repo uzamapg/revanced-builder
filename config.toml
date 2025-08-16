@@ -34,7 +34,7 @@ build-mode = "apk"
 included-patches = "'Hide player overlay filter'"
 excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music' 'Enable debug logging'"
 patcher-args = """\
-  -Ochange-package-name=app.rvx.android.apps.youtube.music \
+  -Ochange-package-name=com.google.android.apps.youtube.music \
   """
 
 # ReVanced
