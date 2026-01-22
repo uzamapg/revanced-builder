@@ -2,6 +2,7 @@
 "bypass_image_region_restrictions": true,
 "change_start_page": "subscriptions",
 "copy_video_url_timestamp": false,
+"custom_branding_icon": "original",
 "disable_resuming_shorts_player": true,
 "disable_signin_to_tv_popup": true,
 "end_screen_suggested_video": true,
