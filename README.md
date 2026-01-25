@@ -5,19 +5,19 @@
 [![GitHub License](https://img.shields.io/github/license/peternmuller/revanced-morphe-builder?logo=gnu&label=License&link=https%3A%2F%2Fgithub.com%2Fpeternmuller%2Frevanced-morphe-builder%2Fblob%2Fmain%2FLICENSE)](https://github.com/peternmuller/revanced-morphe-builder/blob/main/LICENSE)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/peternmuller/revanced-morphe-builder/total?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBkPSJNNC43NSAxNy4yNWEuNzUuNzUgMCAwIDEgLjc1Ljc1djIuMjVjMCAuMTM4LjExMi4yNS4yNS4yNWgxMi41YS4yNS4yNSAwIDAgMCAuMjUtLjI1VjE4YS43NS43NSAwIDAgMSAxLjUgMHYyLjI1QTEuNzUgMS43NSAwIDAgMSAxOC4yNSAyMkg1Ljc1QTEuNzUgMS43NSAwIDAgMSA0IDIwLjI1VjE4YS43NS43NSAwIDAgMSAuNzUtLjc1WiIgZmlsbD0iI0ZGRkZGRiI+PC9wYXRoPjxwYXRoIGQ9Ik01LjIyIDkuOTdhLjc0OS43NDkgMCAwIDEgMS4wNiAwbDQuOTcgNC45NjlWMi43NWEuNzUuNzUgMCAwIDEgMS41IDB2MTIuMTg5bDQuOTctNC45NjlhLjc0OS43NDkgMCAxIDEgMS4wNiAxLjA2bC02LjI1IDYuMjVhLjc0OS43NDkgMCAwIDEtMS4wNiAwbC02LjI1LTYuMjVhLjc0OS43NDkgMCAwIDEgMC0xLjA2WiIgZmlsbD0iI0ZGRkZGRiI+PC9wYXRoPjwvc3ZnPg==&label=Downloads&link=https%3A%2F%2Fgithub.com%2Fpeternmuller%2Frevanced-morphe-builder%2Freleases)](https://github.com/peternmuller/revanced-morphe-builder/releases)
 
-This ReVanced Builder creates both APKs and [Magisk](https://github.com/topjohnwu/Magisk)/[KernelSU](https://github.com/tiann/KernelSU) modules for [ReVanced](https://github.com/ReVanced), [ReVanced Extended by anddea](https://github.com/anddea/revanced-patches), and [Morphe](https://github.com/MorpheApp) versions of YouTube and YouTube Music.
+This ReVanced/Morphe builder creates both APKs and [Magisk](https://github.com/topjohnwu/Magisk)/[KernelSU](https://github.com/tiann/KernelSU) modules for [ReVanced](https://github.com/ReVanced), [ReVanced Extended by anddea](https://github.com/anddea/revanced-patches), and [Morphe](https://github.com/MorpheApp) versions of YouTube and YouTube Music.
 
 #### **Get the latest CI release [here](https://github.com/peternmuller/revanced-morphe-builder/releases/latest)!**
 
 ## Installation
 ### Non-root users
 - Install the [ReVanced GmsCore app](https://github.com/ReVanced/GmsCore/releases/latest) or the [Morphe MicroG-RE app](https://github.com/MorpheApp/MicroG-RE).
-- Download the APK files you want to install from the [releases page](https://github.com/peternmuller/revanced-morphe-builder/releases/latest), or follow the installation steps [here](https://github.com/peternmuller/revanced-morphe-builder?tab=readme-ov-file#easily-install-or-update-revanced-apps-with-obtainium).
-- (Optional) Import [one of my custom settings files](https://github.com/peternmuller/revanced-morphe-builder/tree/main/custom-settings) into your application. [*How to do this?*](https://github.com/peternmuller/revanced-morphe-builder?tab=readme-ov-file#import-custom-settings-in-revanced-applications)
+- Download the APK files you want to install from the [releases page](https://github.com/peternmuller/revanced-morphe-builder/releases/latest), or follow the installation steps [here](https://github.com/peternmuller/revanced-morphe-builder?tab=readme-ov-file#easily-install-or-update-revancedmorphe-apps-with-obtainium).
+- (Optional) Import [one of my custom settings files](https://github.com/peternmuller/revanced-morphe-builder/tree/main/custom-settings) into your application. [*How to do this?*](https://github.com/peternmuller/revanced-morphe-builder?tab=readme-ov-file#import-custom-settings-in-revancedmorphe-applications)
 - Enjoy!
 ### Root users
 - Download the ZIP files you want to flash from the [releases page](https://github.com/peternmuller/revanced-morphe-builder/releases/latest).
-- (Optional) Import [one of my custom settings files](https://github.com/peternmuller/revanced-morphe-builder/tree/main/custom-settings) into your application. [*How to do this?*](https://github.com/peternmuller/revanced-morphe-builder?tab=readme-ov-file#import-custom-settings-in-revanced-applications)
+- (Optional) Import [one of my custom settings files](https://github.com/peternmuller/revanced-morphe-builder/tree/main/custom-settings) into your application. [*How to do this?*](https://github.com/peternmuller/revanced-morphe-builder?tab=readme-ov-file#import-custom-settings-in-revancedmorphe-applications)
 - (Optional) Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YouTube Music from the Play Store.
 - Enjoy!
 
@@ -40,7 +40,7 @@ You can easily install or keep your ReVanced/Morphe apps up to date by using [Ob
 ## Import custom settings in ReVanced/Morphe applications
 I personally like my YouTube and YouTube Music applications to be as close as possible to the original look, but less cluttered, easier, and less annoying to use. If you feel the same, I highly recommend importing [my custom settings files](https://github.com/peternmuller/revanced-morphe-builder/tree/main/custom-settings).
 
-**To do this, go to YouTube Settings &rarr; ReVanced/ReVanced Extended/Morphe &rarr; Miscellaneous (or Advanced Settings for YouTube Music) &rarr; Import&nbsp;/&nbsp;Export settings.**
+**To do this, go to YouTube Settings &rarr; ReVanced/ReVanced Extended/Morphe &rarr; Miscellaneous &rarr; Import&nbsp;/&nbsp;Export settings.**
 
 ## Building Locally
 ### On Termux
