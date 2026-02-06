@@ -42,6 +42,13 @@ I personally like my YouTube and YouTube Music applications to be as close as po
 
 **To do this, go to YouTube Settings &rarr; ReVanced/ReVanced Extended/Morphe &rarr; Miscellaneous &rarr; Import&nbsp;/&nbsp;Export settings.**
 
+## If you are having trouble with the classic mount method of the modules
+such as,
+- **"Reflash needed"** error after reboots
+- **"Suspicious mount detected"** warnings from root detector apps
+
+You can consider using [rvmm-zygisk-mount](https://github.com/j-hc/rvmm-zygisk-mount)
+
 ## Building Locally
 ### On Termux
 ```bash
