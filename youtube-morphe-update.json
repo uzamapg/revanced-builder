@@ -1,6 +1,6 @@
 {
-  "version": "20.40.45 (patches 1.12.0.mpp)",
-  "versionCode": 339,
-  "zipUrl": "https://github.com/uzamapg/revanced-builder/releases/download/339/youtube-morphe-magisk-v20.40.45-all.zip",
+  "version": "20.40.45 (patches 1.13.0.mpp)",
+  "versionCode": 340,
+  "zipUrl": "https://github.com/uzamapg/revanced-builder/releases/download/340/youtube-morphe-magisk-v20.40.45-all.zip",
   "changelog": "https://raw.githubusercontent.com/uzamapg/revanced-builder/update/build.md"
 }
