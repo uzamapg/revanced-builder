@@ -1,6 +1,6 @@
 {
-  "version": "20.14.43 (patches 5.48.0.rvp)",
-  "versionCode": 338,
-  "zipUrl": "https://github.com/uzamapg/revanced-builder/releases/download/338/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "20.14.43 (patches 5.50.1.rvp)",
+  "versionCode": 341,
+  "zipUrl": "https://github.com/uzamapg/revanced-builder/releases/download/341/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/uzamapg/revanced-builder/update/build.md"
 }
